@@ -9,6 +9,9 @@ In a binary search tree, the value of every node, in the left subtree, of a give
 
 ## Balanced Tree and Height
 
+It's important to understand the concept of a balanced tree and how it impacts the tree's height a balanced.
+Tree is one, where the height difference, between the left and right subt trees, of every node. Is at most one, if any node, has subt trees where this difference is more than one the tree, becomes unbalanced this tree. 
+
 ## Implementation in Python
 
 ## Recursive Searching

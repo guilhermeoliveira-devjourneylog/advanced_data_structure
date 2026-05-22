@@ -5,6 +5,8 @@ The root node is the starting point of the tree and each node, can have zero or 
 
 ## BST Definition
 
+In a binary search tree, the value of every node, in the left subtree, of a given node, must be less than, the value of that node. And the value of every node, in the right subtree, must be, greater this rule, must hold true for all nodes in the tree, ensuring that the binary search tree, property is consistent across, the entire structure this property. Can be beneficial for efficiently, searching, deleting and inserting elements,before we get into the operations. 
+
 ## Balanced Tree and Height
 
 ## Implementation in Python
